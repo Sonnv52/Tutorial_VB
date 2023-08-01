@@ -1,0 +1,3 @@
+@Imports Traning_VB.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
